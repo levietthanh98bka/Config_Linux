@@ -1,0 +1,5 @@
+export TBC_SHOW_GIT_RELATIVE=true
+export TBC_SHOW_GIT_STATUS=true
+
+export TBC_PROMPT_DIR_TRIM=2
+export TBC_PROMPT_DIR_SIZE=4
